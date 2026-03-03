@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Student Details
 - **Name:** Ashish Yadav  
-- **Roll No:** 23010104413  
+- **Roll No:** 2301010413  
 - **Course:** B.Tech CSE  
 - **Subject:** Image Processing  
 - **Assignment:** Surveillance Image Restoration System  
