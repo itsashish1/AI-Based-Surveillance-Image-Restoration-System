@@ -1,7 +1,7 @@
 # 📷 AI-Based Surveillance Image Restoration System
 
 ## 👨‍🎓 Student Details
-- **Name:** Ashish Yadav  
+- **Name:** Ashish Yadav  (its_me_ashishy)
 - **Roll No:** 2301010413  
 - **Course:** B.Tech CSE  
 - **Subject:** Image Processing  
