@@ -100,3 +100,5 @@ The system was tested on 3 surveillance-style images:
 
 ```bash
 pip install opencv-python numpy
+README reviewed and refined for improved readability
+ 
